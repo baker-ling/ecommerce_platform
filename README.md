@@ -48,7 +48,7 @@ A deployed version of this app is running [here](https://protected-taiga-76533.h
 
 The video below demonstrates most of the functionality of the site including filtering products, viewing products, adding and removing items from the cart, signing in, and beginning the checkout process.
 
-![Demo screen capture video](./demo.mp4)
+[![Demo screen capture video](./demo.png)](https://1drv.ms/v/s!Amp9wAf74eY0nS9YazcVaj2ZhTr_?e=SqI5b6)
 
 
 ## Questions
