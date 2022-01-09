@@ -42,6 +42,13 @@ npm run build
 npm run start
 ```
 
+A deployed version of this app is running [here](https://protected-taiga-76533.herokuapp.com/).
+
+### Demo Screen Capture
+
+The video below demonstrates most of the functionality of the site including filtering products, viewing products, adding and removing items from the cart, signing in, and beginning the checkout process.
+
+![Demo screen capture video](./demo.mp4)
 
 
 ## Questions
